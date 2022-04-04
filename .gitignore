@@ -1,0 +1,6 @@
+venv/
+*.txt
+Dockerfile
+.idea/
+.python-version
+test.py
