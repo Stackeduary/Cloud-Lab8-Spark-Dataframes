@@ -63,9 +63,5 @@ if __name__ == "__main__":
     resultEx84.show()
     resultEx84.coalesce(1).write.mode("overwrite").format("csv").option("header", True).save("output")
 
-    ##### Bonus
-
-
-
     #Stop Spark session
     #spark.stop()
