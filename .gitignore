@@ -1,6 +1,7 @@
 venv/
-*.txt
+lab8scraps.txt
 Dockerfile
 .idea/
 .python-version
 test.py
+*.crc

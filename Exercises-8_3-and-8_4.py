@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
     #check the number of arguments
     if len(sys.argv) != 2:
-        print("Usage: dataframe_example.py <input folder> ")
+        print("Usage: Exercises-8_3-and-8_4.py <input folder> ")
         exit(-1)
 
     #Set a name for the application
